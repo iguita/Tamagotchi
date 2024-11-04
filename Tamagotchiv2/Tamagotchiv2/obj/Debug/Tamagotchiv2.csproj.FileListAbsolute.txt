@@ -1,0 +1,7 @@
+C:\Users\Celmar\source\repos\Tamagotchiv2\bin\Debug\Tamagotchiv2.exe.config
+C:\Users\Celmar\source\repos\Tamagotchiv2\bin\Debug\Tamagotchiv2.exe
+C:\Users\Celmar\source\repos\Tamagotchiv2\bin\Debug\Tamagotchiv2.pdb
+C:\Users\Celmar\source\repos\Tamagotchiv2\obj\Debug\Tamagotchiv2.csproj.AssemblyReference.cache
+C:\Users\Celmar\source\repos\Tamagotchiv2\obj\Debug\Tamagotchiv2.csproj.CoreCompileInputs.cache
+C:\Users\Celmar\source\repos\Tamagotchiv2\obj\Debug\Tamagotchiv2.exe
+C:\Users\Celmar\source\repos\Tamagotchiv2\obj\Debug\Tamagotchiv2.pdb
